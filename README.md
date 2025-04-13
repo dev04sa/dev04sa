@@ -1,19 +1,43 @@
 <h1 align="center">Hi 👋, I'm Devendra Singh</h1>
-<h3 align="center">I am a driven BTech student at the prestigious National Institute of Technology, Patna, with a profound passion for crafting cross-platform applications and building responsive, full-stack websites. my journey in technology is marked by a deep fascination with machine learning, where i eagerly explore its realms to unravel its potential. Beyond just coding, I'm honing my problem-solving prowess and mastering data structures and algorithms, recognizing their pivotal role in shaping robust software solutions. My dedication to both development and the theoretical underpinnings of computer science showcases my commitment to becoming a well-rounded technologist. With each line of code I write and each algorithm I optimize, I'm inching closer to realizing my aspirations of becoming a proficient tech professional capable of leveraging technology to solve real-world challenges.</h3>
 
-- 🌱 I’m currently learning **Python for machine learning and data visualization**
+🎓 Computer Science Undergraduate @ **NIT Patna (2022–2026)**  
+💻 Passionate **Full Stack Developer** | **Mobile App Developer** | Open Source Enthusiast  
+📍 Jaipur, India
 
-- 👨‍💻 All of my projects are available at [https://github.com/dev04sa](https://github.com/dev04sa)
+---
 
-- 💬 Ask me about **Developing full-stack mobile and web apps is an exciting and dynamic field.**
+#### 🚀 About Me:
+- 🌱 Exploring **DevOps**, **Machine Learning**, and **UI/UX Design**
+- 👯 Actively contributing to open-source through **GSSOC'24** and **Hacktoberfest**
+- ⚡ Fun fact: I love turning complex ideas into clean and scalable code.
 
-- 📫 How to reach me **devsa2067@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devendra-singh-ba1917257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra-singh-ba1917257" height="30" width="40" /></a>
-<a href="https://instagram.com/_.dev_sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.dev_sa" height="30" width="40" /></a>
-</p>
+#### 🛠 Tech Stack:
+- **Languages**: C, Java, Python, JavaScript, Dart  
+- **Frontend**: Flutter, React.js, Next.js  
+- **Backend**: Node.js, Express.js  
+- **Databases**: MongoDB, MySQL, Firebase  
+- **DevOps & Cloud**: AWS (EC2, S3), Docker, Cloudinary  
+- **Tools**: VS Code, Android Studio, Jupyter, Google Colab
+
+---
+
+#### 🏆 Achievements:
+- 🥉 3rd Place – NITS Hacks (Hackathon by NIT Silchar)
+- 🚀 GSSOC’24 Contributor (Rank: 1380/2500)
+- 🌟 Hacktoberfest 2024 – 6 PRs Merged
+- 🔥 LeetCode: 600+ problems solved | Contest Rating: **1801**
+- 🧠 Codeforces Rating: **1099**
+
+---
+
+#### 📫 Connect with Me:
+- 💼 [Portfolio](https://dev-portfolio04.vercel.app/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/devendras04/)
+- 💌 devsa2067@gmail.com
+
+---
 
 [![An image of @dev04sa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dev04sa)](https://holopin.io/@dev04sa)
 
